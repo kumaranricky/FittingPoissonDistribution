@@ -63,7 +63,8 @@ else:
  
 
 # Output :
-![Screenshot (143)](https://user-images.githubusercontent.com/75243072/166452057-dc94e933-ab59-49ae-8b55-d6e1105a0bd3.png)
+![Screenshot (188)](https://user-images.githubusercontent.com/75243072/168962126-81a64ad5-926f-48e8-9ebd-86afc96a05ec.png)
+
 
 # Result:
 Thus,the program is implemented to fit poisson distribution for the given frequencey distribution.
